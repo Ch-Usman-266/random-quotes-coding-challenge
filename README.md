@@ -1,5 +1,8 @@
 # Random Quotes Coding Challenge
 
+<img width="1438" alt="Screenshot 2023-10-02 at 10 52 19 AM" src="https://github.com/Ch-Usman-266/random-quotes-coding-challenge/assets/72358488/a25f3829-081b-4aec-8496-c6e0607dd280">
+<img width="1438" alt="Screenshot 2023-10-02 at 10 51 51 AM" src="https://github.com/Ch-Usman-266/random-quotes-coding-challenge/assets/72358488/cff304e0-08ff-4377-a21e-81cab2e0c932">
+
 ## Overview
 
 This project is a JavaScript and HTML coding challenge that demonstrates a dynamic web page with a fading background color animation and the ability to fetch and display random quotes.
@@ -49,5 +52,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - This project was created as a coding challenge.
 
 - The background color animation inspiration came from [CSS Gradient Animator](https://www.gradient-animator.com/).
-
-## Screenshots
